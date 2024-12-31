@@ -1,0 +1,45 @@
+body{
+  background: url('starry-nightsky-night-sky-with-reflection-background-hd-cover-22-10-2024-1729665062-hd-wallpaper.webp') no-repeat fixed center;
+  background-size: cover;
+}
+
+form{
+  text-align: center;
+}
+
+div{
+  color: white;
+  font-size: 20px;
+  margin-bottom: 25px;
+  
+}
+
+input{
+  border: none;
+  border-radius: 5px;
+  width: 150px;
+  height: 25px;
+
+}
+
+
+p{
+  color: bisque;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 25px;
+  margin-top: 200px;
+}
+
+
+button{
+  width: 125px;
+  height: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  color: beige;
+  background-color: rgb(75, 27, 181);
+  border-radius: 10px;
+
+}
